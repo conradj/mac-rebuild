@@ -1,0 +1,4 @@
+brew update
+brew install nvm
+source $(brew --prefix nvm)/nvm.sh
+echo "source $(brew --prefix nvm)/nvm.sh" >> ~/.zhsrc
