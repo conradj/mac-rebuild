@@ -15,3 +15,10 @@ Open the downloaded font and press "Install Font".
 
 Set this font in iTerm2 (14px is my personal preference) (iTerm → Preferences → Profiles → Text → Change Font).
 https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf
+
+
+brew install zsh-autosuggestions
+switch to Natural Text Editing: iTerm → Preferences → Profiles → Keys
+
+
+brew install zsh-syntax-highlighting
